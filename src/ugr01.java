@@ -54,6 +54,7 @@ public class ugr01 {
     }
 
     void vykresliGL() {
+        glPointSize(5);
         glBegin(GL_POINTS);
         glVertex2i(10, 10);
         glVertex2i(0, 0);
