@@ -56,17 +56,16 @@ public class ugr01 {
 
     void bresenham(int x1, int y1, int x2, int y2) {
         if (x2 < x1) {
-            int pomocx = x1;
+            int pomoc = x1;
             x1 = x2;
-            x2 = pomocx;
-        }
-        if (y2 < y1) {
-            int pomocy = y1;
+            x2 = pomoc;
+            pomoc = y1;
             y1 = y2;
-            y2 = pomocy;
+            y2 = pomoc;
         }
+
         int krok = 1;
-        if (y1 < y2) krok = -1;
+        if (y1 > y2) krok = -1;
         int dx = x2 - x1;
         int dy = Math.abs(y2 - y1);
         int y = y1;
@@ -85,7 +84,7 @@ public class ugr01 {
     }
 
     void vykresliGL() {
-        glPointSize(5);
+//        glPointSize(5);
         glBegin(GL_POINTS);
 //        glVertex2i(10, 10);
 //        glVertex2i(0, 0);
@@ -93,7 +92,7 @@ public class ugr01 {
 //        bresenham(400, 300, 600, 350);
         for (int i = 0; i < height; i += 20) {
             bresenham(width / 2, height / 2, width, i);
-            bresenham(width / 2, height / 2, 0, height - i);
+            bresenham(width / 2, height / 2, 0, i);
         }
         glEnd();
     }
