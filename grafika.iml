@@ -10,40 +10,40 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/Downloads/lwjgl" />
+          <root url="file://$MODULE_DIR$/sources/lwjgl" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/Downloads/lwjgl" />
+          <root url="file://$MODULE_DIR$/sources/lwjgl" />
         </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Downloads/lwjgl" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Downloads/lwjgl" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/sources/lwjgl" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/sources/lwjgl" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/Downloads/lwjgl-glfw" />
+          <root url="file://$MODULE_DIR$/sources/lwjgl-glfw" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/Downloads/lwjgl-glfw" />
+          <root url="file://$MODULE_DIR$/sources/lwjgl-glfw" />
         </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Downloads/lwjgl-glfw" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Downloads/lwjgl-glfw" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/sources/lwjgl-glfw" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/sources/lwjgl-glfw" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/Downloads/lwjgl-opengl" />
+          <root url="file://$MODULE_DIR$/sources/lwjgl-opengl" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/Downloads/lwjgl-opengl" />
+          <root url="file://$MODULE_DIR$/sources/lwjgl-opengl" />
         </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Downloads/lwjgl-opengl" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Downloads/lwjgl-opengl" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/sources/lwjgl-opengl" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/sources/lwjgl-opengl" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
   </component>

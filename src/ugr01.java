@@ -87,7 +87,7 @@ public class ugr01 {
 //        glPointSize(5);
         glBegin(GL_POINTS);
 //        glVertex2i(10, 10);
-//        glVertex2i(0, 0);
+    //        glVertex2i(0, 0);
 //        glVertex2i(width - 1, height - 1);
 //        bresenham(400, 300, 600, 350);
         for (int i = 0; i < height; i += 20) {
@@ -96,6 +96,7 @@ public class ugr01 {
         }
         glEnd();
     }
+
 
     void loop() {
         glViewport(0, 0, width, height);
