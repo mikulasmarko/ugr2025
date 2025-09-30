@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-macos.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-freebsd.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-windows.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux-arm32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-macos-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux-riscv64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-windows-arm64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-macos.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-freebsd.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-windows.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux-arm32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-macos-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-linux-riscv64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-opengl/lwjgl-opengl-natives-windows-arm64.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-macos.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-freebsd.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-windows.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux-arm32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-macos-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux-riscv64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-windows-arm64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-macos.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-freebsd.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-windows.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux-arm32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-macos-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-linux-riscv64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl-glfw/lwjgl-glfw-natives-windows-arm64.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-macos.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-freebsd.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-windows.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux-arm32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-macos-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux-riscv64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-windows-arm64.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-macos.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-freebsd.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-windows.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux-arm32.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-macos-arm64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-linux-riscv64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../sources/lwjgl/lwjgl-natives-windows-arm64.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
